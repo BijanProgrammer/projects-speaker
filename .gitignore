@@ -253,3 +253,5 @@ fabric.properties
 .idea/
 .vscode/
 build/
+
+ignore/
